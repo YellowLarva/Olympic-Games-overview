@@ -10,3 +10,5 @@ The Olympic Games are considered the world's foremost sports competition with mo
 So I thought why don't I start analyse the stats hidden in the Olmpics Games like which Athlete holds the highest no of medal for the olympic,  who is the youngest and oldest of the Athletes of all time and for which country they have played and for what sports.
 
 So I made a dashboard report for knowing these facts and I also made this intensional because I am new to Power Bi and wanted to have a taste of how these Dashboards works, how these are so interactive just by clicking on the fields.
+
+![Dashboard](https://github.com/YellowLarva/Olympic-Games-overview/blob/main/olympics%20games%201.PNG)
