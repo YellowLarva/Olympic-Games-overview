@@ -1,6 +1,6 @@
 # Olympic-Games-overview
 ## Contributing
-This Reoprt welcomes contributions and suggestions. 
+This Report welcomes contributions and suggestions. 
 This Pbix file Contains Olympics stats from 1896 to 2016.
 
 ## Overview 
